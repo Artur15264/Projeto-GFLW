@@ -3,7 +3,7 @@
 #include <ctype.h>
 #include "GFLW_Funcoes.h"
 
-#define MAX_PLACAS 10
+#define MAX_PLACAS 5
 
 int main() {
     char placas[MAX_PLACAS][8]; // Matriz para armazenar as placas
